@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: c78e33143145f4fc3883c6e89b5a7ed2
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chris_Shirt
+    second: {fileID: 2100000, guid: cfffca9daf913452c9411bb549145eb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: e8e29bad745fd454cb779a8169ecc228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_30
+    second: {fileID: 2100000, guid: 03fc79ec9edd64208a7f56b247fdaac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 670224309865224971, guid: 95f4970008b41634ab00cdf0bf63d7b5, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Arrow 2
+    second: {fileID: 2100000, guid: 27b0a13d826494546b86db14e0dab34f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Arrow 3_emergency sign
+    second: {fileID: 2100000, guid: df1f826f29ae848828225c2e1ca89f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Carpet
+    second: {fileID: 2100000, guid: fa56a8b0ebcb34da8a5e4f3282233cf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_Black
+    second: {fileID: 2100000, guid: 9bda5bcbe92d54bddbfb407b5dd91eef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_DarkBlue
+    second: {fileID: 2100000, guid: f2c857e4ef4eb439487b23203b230fa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_Grey
+    second: {fileID: 2100000, guid: f0ba1839bca044b1db8b34b73cfafebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_Orange
+    second: {fileID: 2100000, guid: 4a181be3b43c34f42a9e5f14d12b730c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_Red
+    second: {fileID: 2100000, guid: a46274ad1219b435487981d2af4ef579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_White
+    second: {fileID: 2100000, guid: aae1682f565854211af04c770ee5404c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_White_2
+    second: {fileID: 2100000, guid: 70da65f61f5cd4e599c29b0017f2f7c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_White_3
+    second: {fileID: 2100000, guid: 118929b6fe6e44575a43411eea4a5d6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_Yellow
+    second: {fileID: 2100000, guid: b68db6f0e611f451c90b24c8c1252989, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _DoorHandle
+    second: {fileID: 2100000, guid: ed03722b298f84de1a54014d95bbfee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Door_one part
+    second: {fileID: 2100000, guid: 622ffda4393f64f19b80f6465e5bfbb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Door_pillar
+    second: {fileID: 2100000, guid: 0f80c26241751487489e60868cc297a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _EmergencySign 1
+    second: {fileID: 2100000, guid: b5949b30ca29d4531b757d602dad8d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _EmergencySign 2
+    second: {fileID: 2100000, guid: 7d37dc473ad0f40269fd59b93a944ac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Emissive Light
+    second: {fileID: 2100000, guid: 9317f21efed734a62b3aa58b9797547d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Front wall
+    second: {fileID: 2100000, guid: bfd304d47a2e14e2c95f3b18eaa00bb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Glass
+    second: {fileID: 2100000, guid: 5e21f17033667460cb609f2d258aad84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Glass_Frosted
+    second: {fileID: 2100000, guid: 626ce1ee0c86f4c59ad09ebc4ba7b34e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Metal Canelure
+    second: {fileID: 2100000, guid: c32cd31a9948c4c2990c40bfb29e2ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Metal Handreail_Steel_Brushed_5cm
+    second: {fileID: 2100000, guid: 1dffab128638a4a3ba26356020e4abb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Panorama 1
+    second: {fileID: 2100000, guid: bbe250dacd2ef4e3e8cf335e04c0392e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Panorama 2
+    second: {fileID: 2100000, guid: fb7b5001105e94ad785e0f66fa2ad16a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Panorama 3
+    second: {fileID: 2100000, guid: 6d929ef5271fb4671a880b6131ed3709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Panorama 4
+    second: {fileID: 2100000, guid: 5ba772add09094357893c0d1dfe13f75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Panorama 5
+    second: {fileID: 2100000, guid: c6b9eec2e7fad4c07b400ad8207e5e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _SignPanel
+    second: {fileID: 2100000, guid: 1ec8f55b642724255b05cd2b02de8414, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Tile_elevator
+    second: {fileID: 2100000, guid: dd5f5d7f63e00454caedaed046987cf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wood_desk
+    second: {fileID: 2100000, guid: ead55574bf29844708b2971b04f4ab7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wood_floor
+    second: {fileID: 2100000, guid: 6f9c31e69334242cb995855bff1d1854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wood_floor_2
+    second: {fileID: 2100000, guid: fc9206a8aba63463b99c0c7d1dcc744f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wood_front wall
+    second: {fileID: 2100000, guid: e4042d07abd994ef4819625390daae8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wood_front wall_2
+    second: {fileID: 2100000, guid: 3959d809e5ca64d5091614ba0bdf10a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Wood_handrail
+    second: {fileID: 2100000, guid: 3040bc7f0165242a79ac4e9ae307d41c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: media_floor
+    second: {fileID: 2100000, guid: 64f8a6bca61144648a8830870ae6b001, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

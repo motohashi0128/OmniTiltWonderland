@@ -1,0 +1,36 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class end_cam_move : MonoBehaviour {
+
+	float _timer;
+	Vector3 ini_pos;
+	float move_p;
+
+	public bool forward;
+
+	public float scalex = 0.0f;
+	public float scaley = 0.0f;
+	public float scalez = 0.0f;
+
+	// Use this for initialization
+	void Start () {
+		_timer = 0.0f;
+		ini_pos = this.transform.position;
+	}
+
+	// Update is called once per frame
+	void Update () {
+		_timer += Time.deltaTime/5.0f;
+
+		if (forward) {
+			move_p =   (-1+Mathf.Sin (_timer)) / 5.0f;
+		} else {
+			move_p = (-1-Mathf.Sin (_timer)) / 5.0f;
+		}
+
+		print(Mathf.Sin(_timer));
+		this.transform.position = new Vector3 (ini_pos.x + move_p*scalex,ini_pos.y + move_p*scaley,ini_pos.z + move_p*scalez);
+	}
+}
